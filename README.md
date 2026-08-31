@@ -1,4 +1,4 @@
-# Vibe Coding Starter Kit
+# Vibe Coding Starter Kit V1.0版本
 
 这是一个面向 AI Vibe Coding 新手的项目模板。
 
