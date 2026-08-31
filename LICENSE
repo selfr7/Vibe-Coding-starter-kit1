@@ -1,21 +1,56 @@
-MIT License
+# Vibe Coding Starter Kit V1.0
+## 使用授权协议
 
-Copyright (c) 2026 <你的名字>
+版权所有 © 2026 selfr
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+本产品为付费数字产品。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+购买本产品后，购买者获得一份个人使用授权。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 允许
+
+购买者可以：
+
+- 将模板复制到自己的项目中；
+- 修改模板中的代码、文档、Prompt 和配置；
+- 使用模板开发个人项目或商业项目；
+- 将使用本模板开发的网站、工具、SaaS、MVP 等用于商业用途。
+
+## 不允许
+
+未经授权，不得：
+
+- 转售本模板；
+- 将本模板上传网盘或资源站供他人下载；
+- 将本模板公开发布到 GitHub、Gitee 等公开代码仓库；
+- 将模板分享给未购买者；
+- 将模板重新包装后作为数字产品出售；
+- 单独提取模板中的核心文档、Prompt、工作流程并出售；
+- 声称自己是本模板的作者。
+
+## 关于你开发的项目
+
+使用本模板制作的个人项目或商业项目，
+不需要向模板作者支付额外费用。
+
+本授权限制的是“模板本身的再分发”，
+而不是限制你使用模板开发自己的产品。
+
+## 第三方资源
+
+本项目中的第三方软件、字体、Icon、图片及其他资源，
+可能具有独立的许可证或使用条款。
+
+这些第三方资源不受本授权协议的重新授权，
+应遵守其各自的许可证或服务条款。
+
+具体信息请查看：
+
+ASSET_LICENSE.md
+
+## 免责声明
+
+本产品提供的是 AI Vibe Coding 工作流程和项目模板，
+不构成法律、知识产权、安全或合规意见。
+
+© 2026 selfr
